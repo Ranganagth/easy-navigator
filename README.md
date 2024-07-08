@@ -15,13 +15,13 @@ You can see the effect in action by opening `index.html` in your web browser or 
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/Ranganagth/easy-navigator.git
-    ```
+   ```bash
+   git clone https://github.com/Ranganagth/easy-navigator.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd easy-navigator
-    ```
+   ```bash
+   cd easy-navigator
+   ```
 
 ## Usage
 
@@ -44,3 +44,8 @@ You can see the effect in action by opening `index.html` in your web browser or 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+- Penguin logo, Notification, GitHub and LinkedIn icon</a> icon by <a href="https://icons8.com">Icons8</a>
+- Inspiration from various CSS and design tutorials - [Codepen](https://codepen.io/)
